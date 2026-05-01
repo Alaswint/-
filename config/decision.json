@@ -1,0 +1,9 @@
+{
+  "liveupdate360.exe": false,
+  "360safe.exe": false,
+  "360tray.exe": true,
+  "360leakfixer.exe": true,
+  "360sptool.exe": true,
+  "360entdt.exe": true,
+  "360seclogonhelper.exe": true
+}

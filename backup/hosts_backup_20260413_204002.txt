@@ -1,0 +1,129 @@
+﻿# Copyright (c) 1993-2009 Microsoft Corp.
+#
+# This is a sample HOSTS file used by Microsoft TCP/IP for Windows.
+#
+# This file contains the mappings of IP addresses to host names. Each
+# entry should be kept on an individual line. The IP address should
+# be placed in the first column followed by the corresponding host name.
+# The IP address and the host name should be separated by at least one
+# space.
+#
+# Additionally, comments (such as these) may be inserted on individual
+# lines or following the machine name denoted by a '#' symbol.
+#
+# For example:
+#
+#      102.54.94.97     rhino.acme.com          # source server
+#       38.25.63.10     x.acme.com              # x client host
+
+# localhost name resolution is handled within DNS itself.
+#	127.0.0.1       localhost
+#	::1             localhost
+ 
+ 127.0.0.1 local.id.seewo.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# === 软件拦截卫士开始 ===
+0.0.0.0 shouji.360.cn
+0.0.0.0 openbox.mobilem.360.cn
+0.0.0.0 s.360.cn
+0.0.0.0 s.so.360.cn
+0.0.0.0 haosou.com
+0.0.0.0 www.haosou.com
+0.0.0.0 so.com
+0.0.0.0 www.so.com
+0.0.0.0 2345.com
+0.0.0.0 www.2345.com
+0.0.0.0 dl.2345.com
+0.0.0.0 download.2345.com
+0.0.0.0 union.2345.com
+0.0.0.0 ad.2345.com
+0.0.0.0 soft.2345.com
+0.0.0.0 tongji.2345.com
+0.0.0.0 pic.2345.com
+0.0.0.0 minipage.2345.com
+0.0.0.0 news.2345.com
+0.0.0.0 game.2345.com
+0.0.0.0 mall.2345.com
+0.0.0.0 api.2345.com
+0.0.0.0 update.2345.com
+0.0.0.0 360.cn
+0.0.0.0 www.360.cn
+0.0.0.0 360.com
+0.0.0.0 www.360.com
+0.0.0.0 download.360.com
+0.0.0.0 down.360.com
+0.0.0.0 360safe.com
+0.0.0.0 www.360safe.com
+0.0.0.0 360totalsecurity.com
+0.0.0.0 www.360totalsecurity.com
+0.0.0.0 yunpan.360.cn
+0.0.0.0 yun.360.cn
+0.0.0.0 app.360.cn
+0.0.0.0 open.360.cn
+0.0.0.0 soft.360.cn
+0.0.0.0 sd.360.cn
+0.0.0.0 se.360.cn
+0.0.0.0 browser.360.cn
+0.0.0.0 yunpan.cn
+0.0.0.0 www.yunpan.cn
+0.0.0.0 ludashi.com
+0.0.0.0 www.ludashi.com
+0.0.0.0 lds.360.cn
+0.0.0.0 g.360.cn
+0.0.0.0 cm.360.cn
+0.0.0.0 p.360.cn
+0.0.0.0 ad.360.cn
+0.0.0.0 stat.360.cn
+0.0.0.0 log.360.cn
+0.0.0.0 trace.360.cn
+0.0.0.0 tracker.360.cn
+0.0.0.0 duba.net
+0.0.0.0 www.duba.net
+0.0.0.0 ijinshan.com
+0.0.0.0 www.ijinshan.com
+0.0.0.0 kingsoft.com
+0.0.0.0 ksyun.com
+0.0.0.0 guanjia.qq.com
+0.0.0.0 pc.qq.com
+0.0.0.0 dl.pc.qq.com
+# === 软件拦截卫士结束 ===
